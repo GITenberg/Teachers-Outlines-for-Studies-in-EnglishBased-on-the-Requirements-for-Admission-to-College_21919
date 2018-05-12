@@ -1,0 +1,27 @@
+_repo: Teachers-Outlines-for-Studies-in-EnglishBased-on-the-Requirements-for-Admission-to-College_21919
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blakely, Gilbert Sykes
+    gutenberg_agent_id: '24970'
+    url: http://www.gutenberg.org/2009/agents/24970
+description: ''
+gutenberg_issued: '2007-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21919'
+  lccn: 08019555
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Study and teaching'
+- !lcc 'LB'
+title: 'Teachers'' Outlines for Studies in English
+
+  Based on the Requirements for Admission to College'
+url: http://www.gutenberg.org/ebooks/21919
